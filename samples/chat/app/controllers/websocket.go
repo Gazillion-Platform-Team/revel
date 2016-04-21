@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"code.google.com/p/go.net/websocket"
+	"golang.org/x/net/websocket"
 	"github.com/robfig/revel"
 	"github.com/robfig/revel/samples/chat/app/chatroom"
 )
