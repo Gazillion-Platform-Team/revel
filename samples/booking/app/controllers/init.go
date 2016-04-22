@@ -1,6 +1,6 @@
 package controllers
 
-import "github.com/revel/revel"
+import "github.com/Gazillion-Platform-Team/revel"
 
 func init() {
 	revel.OnAppStart(Init)

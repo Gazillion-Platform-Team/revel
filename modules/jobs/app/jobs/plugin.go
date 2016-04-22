@@ -3,7 +3,7 @@ package jobs
 import (
 	"fmt"
 	"github.com/robfig/cron"
-	"github.com/revel/revel"
+	"github.com/Gazillion-Platform-Team/revel"
 )
 
 const DEFAULT_JOB_POOL_SIZE = 10

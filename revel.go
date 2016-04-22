@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	REVEL_IMPORT_PATH = "github.com/revel/revel"
+	REVEL_IMPORT_PATH = "github.com/Gazillion-Platform-Team/revel"
 )
 
 type revelLogs struct {
@@ -321,7 +321,7 @@ func addModule(name, importPath, modulePath string) {
 
 	// Hack: There is presently no way for the testrunner module to add the
 	// "test" subdirectory to the CodePaths.  So this does it instead.
-	if importPath == "github.com/revel/revel/modules/testrunner" {
+	if importPath == "github.com/Gazillion-Platform-Team/revel/modules/testrunner" {
 		CodePaths = append(CodePaths, path.Join(BasePath, "tests"))
 	}
 }

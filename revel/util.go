@@ -4,7 +4,7 @@ import (
 	"archive/tar"
 	"compress/gzip"
 	"fmt"
-	"github.com/revel/revel"
+	"github.com/Gazillion-Platform-Team/revel"
 	"io"
 	"os"
 	"path"

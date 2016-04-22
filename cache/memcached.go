@@ -3,7 +3,7 @@ package cache
 import (
 	"errors"
 	"github.com/robfig/gomemcache/memcache"
-	"github.com/revel/revel"
+	"github.com/Gazillion-Platform-Team/revel"
 	"time"
 )
 

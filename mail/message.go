@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/revel/revel"
+	"github.com/Gazillion-Platform-Team/revel"
 )
 
 var NewLine string = "\r\n"

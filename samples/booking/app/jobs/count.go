@@ -2,10 +2,10 @@ package jobs
 
 import (
 	"fmt"
-	"github.com/revel/revel"
-	"github.com/revel/revel/modules/jobs/app/jobs"
-	"github.com/revel/revel/samples/booking/app/controllers"
-	"github.com/revel/revel/samples/booking/app/models"
+	"github.com/Gazillion-Platform-Team/revel"
+	"github.com/Gazillion-Platform-Team/revel/modules/jobs/app/jobs"
+	"github.com/Gazillion-Platform-Team/revel/samples/booking/app/controllers"
+	"github.com/Gazillion-Platform-Team/revel/samples/booking/app/models"
 )
 
 // Periodically count the bookings in the database.

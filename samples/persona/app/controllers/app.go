@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/revel/revel"
+	"github.com/Gazillion-Platform-Team/revel"
 )
 
 const host = "" // set this to your host

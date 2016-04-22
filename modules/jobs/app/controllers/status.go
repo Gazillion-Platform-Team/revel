@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"github.com/robfig/cron"
-	"github.com/revel/revel"
-	"github.com/revel/revel/modules/jobs/app/jobs"
+	"github.com/Gazillion-Platform-Team/revel"
+	"github.com/Gazillion-Platform-Team/revel/modules/jobs/app/jobs"
 	"strings"
 )
 

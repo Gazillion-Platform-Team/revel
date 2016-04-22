@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/revel/revel"
+	"github.com/Gazillion-Platform-Team/revel"
 	"go/build"
 	"math/rand"
 	"os"

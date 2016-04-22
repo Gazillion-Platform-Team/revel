@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/revel/revel"
+	"github.com/Gazillion-Platform-Team/revel"
 )
 
 type Sample1 struct {

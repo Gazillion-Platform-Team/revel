@@ -1,6 +1,6 @@
 package models
 
-import "github.com/revel/revel"
+import "github.com/Gazillion-Platform-Team/revel"
 
 type User struct {
 	Username        string

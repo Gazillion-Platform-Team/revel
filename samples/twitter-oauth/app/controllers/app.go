@@ -3,8 +3,8 @@ package controllers
 import (
 	"encoding/json"
 	"github.com/mrjones/oauth"
-	"github.com/revel/revel"
-	"github.com/revel/revel/samples/twitter-oauth/app/models"
+	"github.com/Gazillion-Platform-Team/revel"
+	"github.com/Gazillion-Platform-Team/revel/samples/twitter-oauth/app/models"
 	"io/ioutil"
 )
 

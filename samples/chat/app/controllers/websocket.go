@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"golang.org/x/net/websocket"
-	"github.com/revel/revel"
-	"github.com/revel/revel/samples/chat/app/chatroom"
+	"github.com/Gazillion-Platform-Team/revel"
+	"github.com/Gazillion-Platform-Team/revel/samples/chat/app/chatroom"
 )
 
 type WebSocket struct {

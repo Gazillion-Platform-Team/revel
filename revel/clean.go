@@ -15,7 +15,7 @@ Clean the Revel web application named by the given import path.
 
 For example:
 
-    revel clean github.com/revel/revel/samples/chat
+    revel clean github.com/Gazillion-Platform-Team/revel/samples/chat
 
 It removes the app/tmp directory.
 `,

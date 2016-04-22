@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/revel/revel"
-	"github.com/revel/cmd/harness"
+	"github.com/Gazillion-Platform-Team/revel"
+	"github.com/Gazillion-Platform-Team/revel/revel/harness"
 	"os"
 	"path"
 	"path/filepath"
@@ -21,7 +21,7 @@ WARNING: The target path will be completely deleted, if it already exists!
 
 For example:
 
-    revel build github.com/revel/revel/samples/chat /tmp/chat
+    revel build github.com/Gazillion-Platform-Team/revel/samples/chat /tmp/chat
 `,
 }
 
