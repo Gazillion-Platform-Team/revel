@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/Gazillion-Platform-Team/revel"
-	"github.com/Gazillion-Platform-Team/revel/revel/harness"
+	"github.com/Gazillion-Platform-Team/revel/harness"
 	"github.com/Gazillion-Platform-Team/revel/modules/testrunner/app/controllers"
 	"io"
 	"io/ioutil"

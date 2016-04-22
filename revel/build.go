@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/Gazillion-Platform-Team/revel"
-	"github.com/Gazillion-Platform-Team/revel/revel/harness"
+	"github.com/Gazillion-Platform-Team/revel/harness"
 	"os"
 	"path"
 	"path/filepath"

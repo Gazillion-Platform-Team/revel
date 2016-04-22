@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/Gazillion-Platform-Team/revel"
-	"github.com/Gazillion-Platform-Team/revel/revel/harness"
+	"github.com/Gazillion-Platform-Team/revel/harness"
 	"strconv"
 )
 

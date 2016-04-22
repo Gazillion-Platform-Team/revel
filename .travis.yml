@@ -8,7 +8,7 @@ install:
   # Annoyingly, we can not use go get revel/... because references to app/routes package fail
   - go get -v github.com/Gazillion-Platform-Team/revel/revel
   - go get -v github.com/Gazillion-Platform-Team/revel/cache
-  - go get -v github.com/Gazillion-Platform-Team/revel/revel/harness
+  - go get -v github.com/Gazillion-Platform-Team/revel/harness
   - go get -v github.com/coopernurse/gorp
   - go get -v code.google.com/p/go.crypto/bcrypt
   - go get -v github.com/mattn/go-sqlite3
@@ -18,7 +18,7 @@ install:
 script:
   - go test github.com/Gazillion-Platform-Team/revel
   - go test github.com/Gazillion-Platform-Team/revel/cache
-  - go test github.com/Gazillion-Platform-Team/revel/revel/harness
+  - go test github.com/Gazillion-Platform-Team/revel/harness
 
   # Ensure the new-app flow works (plus the other commands).
   - revel new     my/testapp
