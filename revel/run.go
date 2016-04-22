@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/revel/revel"
-	"github.com/revel/revel/harness"
+	"github.com/revel/cmd/harness"
 	"strconv"
 )
 

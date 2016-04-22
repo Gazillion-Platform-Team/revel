@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/revel/revel"
-	"github.com/revel/revel/harness"
+	"github.com/revel/cmd/harness"
 	"os"
 	"path"
 	"path/filepath"
